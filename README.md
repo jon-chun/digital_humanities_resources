@@ -34,8 +34,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/programminghumanity/digital_humanities_resources">
+    <img src="images/logo_dh_kenyon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
@@ -43,14 +43,14 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/programminghumanity/digital_humanities_resources"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/programminghumanity/digital_humanities_resources">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/programminghumanity/digital_humanities_resources/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/programminghumanity/digital_humanities_resources/issues">Request Feature</a>
   </p>
 </p>
 
@@ -108,7 +108,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/programminghumanity/digital_humanities_resources.git
 ```
 2. Install NPM packages
 ```sh
@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/programminghumanity/digital_humanities_resources/issues) for a list of proposed features (and known issues).
 
 
 
@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/programminghumanity/digital_humanities_resources](https://github.com/programminghumanity/digital_humanities_resources)
 
 
 
