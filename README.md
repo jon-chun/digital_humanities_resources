@@ -35,22 +35,22 @@
 <br />
 <p align="center">
   <a href="https://github.com/programminghumanity/digital_humanities_resources">
-    <img src="images/logo_dh_kenyon.png" alt="Logo" width="80" height="80">
+    <img src="images/logo_dh_kenyon.png" alt="Logo">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Digital Humanities Resources</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Computational Resources for Digital Humanities
     <br />
     <a href="https://github.com/programminghumanity/digital_humanities_resources"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/programminghumanity/digital_humanities_resources">View Demo</a>
+    <a href="https://github.com/programminghumanity/digital_humanities_resources">View Contents</a>
     ·
-    <a href="https://github.com/programminghumanity/digital_humanities_resources/issues">Report Bug</a>
+    <a href="https://github.com/programminghumanity/digital_humanities_resources/issues">Report Error</a>
     ·
-    <a href="https://github.com/programminghumanity/digital_humanities_resources/issues">Request Feature</a>
+    <a href="https://github.com/programminghumanity/digital_humanities_resources/issues">Add Resource</a>
   </p>
 </p>
 
@@ -59,6 +59,19 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+* [Environments]
+  * [CLI]
+  * [Jupyter]
+  * [Cloud]
+* [Data Wrangling]
+
+* [Text Wrangling]
+
+* [Algorithms]
+
+* [Visualizations]
+
+<!-- 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
@@ -70,7 +83,7 @@
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
-
+-->
 
 
 <!-- ABOUT THE PROJECT -->
